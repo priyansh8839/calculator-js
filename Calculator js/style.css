@@ -1,0 +1,20 @@
+.contanier{
+    text-align: center;
+}
+table{
+    margin: auto;
+}
+input{
+    border-radius: 21px;
+    font-size: 30px;
+}button{
+    border-radius: 20px;
+    font-size: 22px;
+    background-color: blanchedalmond;
+    width: 75px;
+    height: 40px;
+}
+.Calculator{
+  
+    display: inline-block;
+}
